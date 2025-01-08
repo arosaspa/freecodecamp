@@ -1,4 +1,4 @@
 # freecodecamp
 BootCamp
 
-I'm learning to Full Stack thanks to the academy SimpliLearn from India.
+I'm learning to Full Stack Developer thanks to the Free Code Camp from India.
